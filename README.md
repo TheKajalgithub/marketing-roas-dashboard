@@ -24,3 +24,5 @@ Identify which marketing campaigns generate the highest return and optimize budg
 - Total Revenue
 - Total Ad Spend
 - ROAS = Revenue / Ad Spend
+<img width="1920" height="1080" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/eff6e675-d082-4603-91a5-3a96427cc4ca" />
+
